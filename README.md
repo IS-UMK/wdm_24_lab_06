@@ -3,7 +3,7 @@
 Zapoznaj się z zawartością notatnika Jupyter umieszczonego w repozytorium  i wykonaj zawarte w nim ćwiczenia.
 
 
-Notatnik: [NOTEBOOK](https://github.com/IS-UMK/wdm_23_lab_06/blob/master/06_Klasyfikacja.ipynb)
+Notatnik: [06_Klasyfikacja.ipynb](https://github.com/IS-UMK/wdm_23_lab_06/blob/master/06_Klasyfikacja.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/wdm_23_lab_06/blob/master/06_Klasyfikacja.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/wdm_23_lab_06/master?filepath=06_Klasyfikacja.ipynb)
 
 ---
